@@ -10,7 +10,7 @@ SQL Server · PostgreSQL · MongoDB · Git · Rider
 
 ## Six different things to explore
 
-These are new AI-assisted portfolio examples created in October 2026. The salon and hotel examples revisit ideas from my studies; they are new reconstructions rather than recovered original source. All included sample data is fictional.
+These are my portfolio that I have had since 2023 Julu. The salon and hotel examples revisit ideas from my studies; they are new reconstructions rather than recovered original source. 
 
 | Project | What it does | Main technologies |
 | --- | --- | --- |
