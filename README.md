@@ -22,5 +22,3 @@ These are my portfolio that I have had since 2023 Julu. The salon and hotel exam
 | [Survey API](https://github.com/rebinismail007/csharp-survey-api) | Validate and store fictional team feedback with an MVC overview | C#, REST, EF Core, SQLite, xUnit |
 
 Each repository includes run instructions, automated checks and a description of its scope.
-
-My healthcare background brings experience with responsibility, documentation, understanding user needs and collaboration across professional groups.
