@@ -1,14 +1,14 @@
 # Hi, I'm Rebin
 
-Datamatiker graduate based in Copenhagen. I build software with C#, TypeScript, JavaScript and Python — from booking systems and databases to small games and visual tools.
+Datamatiker(A.P Computer Science) graduate based in Copenhagen. I build software with C#, TypeScript, JavaScript and Python.
 
-## Technologies
+##  Main Technologies learned:
 
 C# · ASP.NET Core · MVC · Entity Framework · ADO.NET · REST APIs · Python  
 TypeScript · JavaScript · React · Next.js · Vue · HTML · CSS  
 SQL Server · PostgreSQL · MongoDB · SQLite · Git · Qiskit · scikit-learn
 
-## Reconstructed from my study material
+## Reconstructed from my study material.
 
 Projects reconstructed from study requirements, notes and code snippets, with working implementations and tests. [Source notes](STUDY_SOURCES.md) describe the study material and project scope.
 
